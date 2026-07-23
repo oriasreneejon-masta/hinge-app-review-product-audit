@@ -5,6 +5,8 @@
 # Hinge App Store Reviews: Product Health & Release Audit
 
 ## Business Overview
+* **Full Dataset:** [Hinge Google Play Store Review Dataset](https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review/data) on Kaggle (~89k rows)
+* **Sample Schema Preview:** [`data/sample_hinge_reviews.csv`](data/sample_hinge_reviews.csv)
 User reviews on app marketplaces provide immediate signals about app stability, feature reception, and customer support performance. This repository analyzes 80,000+ real-world Google Play Store reviews for Hinge to track software version performance, flag operational complaints, and evaluate developer support response rates.
 
 Data Source: [Hinge Google Play Store Review Dataset](https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review/data) on Kaggle.
