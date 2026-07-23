@@ -1,4 +1,4 @@
-p align="center"
+<p align="center">
   <img width="2166" height="750" alt="hingelogo3" src="https://github.com/user-attachments/assets/542ec1a8-af43-41c2-846e-c1254d7f2899" />
 </p>
 
